@@ -8,3 +8,6 @@ The software and the user manual can be obtained from this website: <a href="htt
 
 # BOM value
 The bom value is 8€, which includes the M27C512 EPROM. It was calculated with domestic prices. 
+
+# Rev. 1
+Rev. 1 is not yet tested, the modifications were minor, though. The board was design rule checked and the gerber date was checked in a gerber viewer.
