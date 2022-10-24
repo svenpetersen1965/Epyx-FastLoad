@@ -14,3 +14,7 @@ Rev. 1 is not yet tested, the modifications were minor, though. The board was de
 
 # Rev. 2
 Rev. 2 is only a mechanical revision. Notches for tfw8bit.com Stumpy cartridge case were added. 
+
+<img src="https://github.com/svenpetersen1965/Epyx-FastLoad/blob/master/Rev.%202/pictures/4801_-_EpyxFastLoad_v2.JPG" width="300" alt="Epyx FastLoad v2">
+  
+There is a version of the Gerber files and the eagle file without a documentation frame, since some PCB manufacturer's websites have a problem with it.
