@@ -11,3 +11,6 @@ The bom value is 8€, which includes the M27C512 EPROM. It was calculated with 
 
 # Rev. 1
 Rev. 1 is not yet tested, the modifications were minor, though. The board was design rule checked and the gerber date was checked in a gerber viewer.
+
+# Rev. 2
+Rev. 2 is only a mechanical revision. Notches for tfw8bit.com Stumpy cartridge case were added. 
